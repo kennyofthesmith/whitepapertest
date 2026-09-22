@@ -7,11 +7,11 @@ const config = {
 
   future: {},
 
-  url: 'https://example-research-series.org',
-  baseUrl: '/',
+  url: 'https://kennyofthesmith.github.io',
+  baseUrl: '/whitepapertest/',
 
-  organizationName: 'example-org',
-  projectName: 'working-papers',
+  organizationName: 'kennyofthesmith',
+  projectName: 'whitepapertest',
 
   onBrokenLinks: 'throw',
 
